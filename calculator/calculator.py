@@ -1,2 +1,2 @@
-n = input("Enter expression: ")
-print(eval(n))
+exp = input("Enter expression: ")
+print(eval(exp))
